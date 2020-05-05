@@ -31,6 +31,9 @@
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
             alt="follow on Twitter"></a>
+    <a href="https://www.awakish.com">
+        <img src="https://www.awakish.com/sitestatus/shields-io" />
+    </a>
 </p>
 
 This is home to [Shields.io][shields.io], a service for concise, consistent,
